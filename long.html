@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>long</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content"width=device-width,initial-scale=1.0">
+	<link rel="stylesheet" herf="style1.css">
+	
+	</head>
+	<body>
+		<h1>long</h1>
+		<img src="./long.hentai" height="200">
+		<button><a href="./long.hentai">uh</a></button>
+	</body> 
+</html>
